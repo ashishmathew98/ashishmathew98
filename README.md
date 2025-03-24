@@ -1,9 +1,13 @@
 ## Hi, I'm Ashish!
 
-Graduate student @ Columbia University, New York<br/>
-I'm interested in data science and finance<br/>
-Currently working on analyzing the role of investor sentiment in portfolio optimization</br>
+### Education
+**Columbia University -** *M.S. Applied Analytics*</br>
+**Birla Institute of Technology & Science -** *B.E. Electrical and Electronics*
 
-<!--
-[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmathew98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+### Experience
+**JPMorgan Chase -** *Strategy Analytics, Associate*</br>
+- Developed predictive models and strategies to mitigate fraud on Chase credit cards.
+- Created reports and Tableau dashboards to track model performance and identify emerging fraud trends.
+
+**JPMorgan Chase -** *Data Science, Analyst*</br>
+- Developed underwriting tools and features to increase approval rates in the new-to-credit customer segment.
